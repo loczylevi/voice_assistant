@@ -1,6 +1,6 @@
 # voice_assistant
 
-####The project is very simple, after starting your PC, a machine voice announces the time and some more useful information
+#### The project is very simple, after starting your PC, a machine voice announces the time and some more useful information
 
 I use some python libaries here we come
 
