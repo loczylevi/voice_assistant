@@ -16,7 +16,7 @@ if your pc is turn on the script is start run, but how can you do this?
 
 ## On Ubuntu/Linux
 
-click here *application display* which is located at the bottom left of on your screen
+0. click here *application display* which is located at the bottom left of on your screen
 
 <img src="img/here.png" alt="tutorail images" title="tutorail images">
 
