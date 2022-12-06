@@ -6,7 +6,7 @@ import pywhatkit as kit
 time_now = datetime.now()
 current_time = time_now.strftime("%H:%M")
 
-#kit.playonyt("Highway to hell")
+kit.playonyt("Highway to hell")
 
 ido = str(current_time)
 ido_szak = ""
