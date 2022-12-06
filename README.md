@@ -23,6 +23,7 @@ if your pc is turn on the script is start run, but how can you do this?
 1. Add new 
 
 1. at the beginning write random name second __most important part in this tutorial__ you write a command line code for example: __python3 /here your python file path/__
+2. for me: python3 /home/loczylevi/prog2/english_assistant.py 
 
 1. click save
 
