@@ -22,7 +22,7 @@ if your pc is turn on the script is start run, but how can you do this?
 
 1. Add new 
 
-1. at the beginning write random name second most important part in this tutorial you write a command line code for example: python3 /here your python file path/
+1. at the beginning write random name second most important part in this tutorial you write a command line code for example: _python3 /here your python file path/_
 
 1. click save
 
