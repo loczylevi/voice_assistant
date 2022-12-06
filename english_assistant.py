@@ -5,7 +5,7 @@ from datetime import datetime
 time_now = datetime.now()
 current_time = time_now.strftime("%H:%M")
 # The current date and time is 10:27:45
-kit.playonyt("Illés igen")
+kit.playonyt("highway to hell")
 engine = pyttsx3.init()
 rate = engine.getProperty('rate')
 engine.setProperty('rate', rate-100)
