@@ -12,6 +12,8 @@ I use some python libaries here we come
 
 * https://pypi.org/project/pywhatkit/
 
+* https://pypi.org/project/pyttsx3/
+
 if your pc is turn on the script is start run, but how can you do this?
 
 ## On Ubuntu/Linux
