@@ -1,4 +1,4 @@
-# voice_assistant
+# python sript voice_assistant project
 
 #### The project is very simple, after starting your PC, a machine voice announces the time and some more useful information
 
